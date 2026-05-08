@@ -1,12 +1,3 @@
-.vscode/settings.json
-target/classes/com/ifba/aleatorio/Calculadora.class
-target/classes/com/ifba/exercicios_aula01/Ola.class
-target/classes/com/ifba/exercicios_aula01/idade/CalcularIdade.class
-target/classes/com/ifba/exercicios_aula01/idade/Main.class
-target/classes/com/ifba/exercicios_aula01/media/CalcularMedia.class
-target/classes/com/ifba/exercicios_aula01/media/Main.class
-target/classes/com/ifba/exercicios_de_revisao01/Exercicio01.class
-target/classes/com/ifba/exercicios_de_revisao01/Exercicio02.class
-target/classes/com/ifba/exercicios_de_revisao01/Exercicio03.class
-target/classes/com/ifba/exercicios_de_revisao01/Exercicio04.class
 pom.xml
+.vscode
+target
