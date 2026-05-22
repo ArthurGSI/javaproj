@@ -59,9 +59,8 @@ public class CadastrarConta {
     private void aumentarCapacidade() {
         Conta[] novoArray = new Conta[contas.length + 1];
         
-        for (int i = 0; i < contas.length; i++) {
-            novoArray[i] = contas[i];
-        }
+        System.arraycopy(contas, 0, novoArray, 0, contas.length);
+
         contas = novoArray;
         System.out.println("Capacidade do vetor aumentada para: " + contas.length);
     }
