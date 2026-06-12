@@ -15,15 +15,7 @@ public class Main {
         banco.adicionarConta(c3);
         banco.adicionarConta(c4);
 
-        banco.listarConta();
-
-        banco.procurarConta("Roberto");
-
-        banco.removerConta(1);
-
-        banco.listarConta();
-
-
-
+        banco.imprimirVetor();
+        
     }
 }
