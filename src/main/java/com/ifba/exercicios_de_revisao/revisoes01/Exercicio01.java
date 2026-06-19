@@ -1,4 +1,4 @@
-package com.ifba.exercicios_de_revisao01;
+package com.ifba.exercicios_de_revisao.revisoes01;
 
 import java.util.Scanner;
 

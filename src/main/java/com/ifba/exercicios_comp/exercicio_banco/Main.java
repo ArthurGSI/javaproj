@@ -1,4 +1,4 @@
-package com.ifba.exercicio_banco;
+package com.ifba.exercicios_comp.exercicio_banco;
 
 public class Main {
     public static void main(String[] args) {
