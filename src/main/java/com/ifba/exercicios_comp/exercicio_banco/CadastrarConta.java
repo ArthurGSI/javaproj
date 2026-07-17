@@ -85,6 +85,6 @@ public class CadastrarConta {
             sb.append("[").append(i).append("] ").append(contas[i]).append("\n");
         }
 
-        System.out.println(sb.toString());
+        System.out.println(sb);
     }
 }

@@ -1,4 +1,4 @@
-package com.ifba.exercicios_aula01.media;
+package com.ifba.aula.exercicios_aula01.media;
 
 import java.util.Scanner;
 
